@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-logo-image-url.png" alt="Yantraniti Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/Vrinda2403/YantraNiti/main/assets/YantraNiti_Logo.png" alt="Yantraniti Logo" width="400"/>
   <br/>
   <h1>
     यंत्रनीति (Yantraniti)
@@ -154,6 +154,3 @@ See the [open issues](https://github.com/Vrinda2403/YantraNiti/issues) for a ful
 **Gmail:** vrinda.2432006@gmail.com
 **Team Name:** Mind Canvas
 **Project Link:** [https://github.com/your-github-username/YantraNiti](https://github.com/your-github-username/YantraNiti)
-## 📂 Project Structure
-
-The project follows a scalable and maintainable folder structure, designed to keep the codebase organized as new features are added.
