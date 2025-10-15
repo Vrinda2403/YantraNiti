@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vrinda2403/YantraNiti/main/assets/YantraNiti_Logo.png" alt="Yantraniti Logo" width="400"/>
+ <img src="https://raw.githubusercontent.com/Vrinda2403/YantraNiti/main/YantraNiti/src/assets/YantraNiti_Logo.png" alt="Yantraniti Logo" width="400"/>
   <br/>
   <h1>
     यंत्रनीति (Yantraniti)
