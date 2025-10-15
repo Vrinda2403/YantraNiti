@@ -45,7 +45,7 @@ const SavedYantras = React.forwardRef(({ isLoggedIn, scrollToLogin }, ref) => {
                 )}
 
                 <h2 className="text-4xl sm:text-5xl font-semibold text-center mb-16">
-                    Your <span className="bg-gradient-to-r from-accent- to-accent-gold bg-clip-text text-transparent">Saved</span> Yantras
+                    Your <span className="bg-gradient-to-r from-accent-light to-accent-teal bg-clip-text text-transparent">Saved</span> Yantras
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {savedData.map((yantra) => (

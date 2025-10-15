@@ -28,7 +28,7 @@ const Login = ({ onLogin }) => {
                 <div className="text-center lg:text-left">
                     <h2 className="text-4xl lg:text-5xl font-bold text-text-light mb-6 leading-tight">
                         Unlock the <br />
-                        <span className="bg-gradient-to-r from-accent-teal to-accent-gold bg-clip-text text-transparent">Cosmos</span>
+                        <span className="bg-gradient-to-r from-accent-light to-accent-teal bg-clip-text text-transparent">Cosmos</span>
                     </h2>
                     <p className="text-lg text-text-light/70 mb-8">
                         Log in to access your personal dashboard. Here you can save your generated yantra designs, manage your parameters, and export them for fabrication.

@@ -29,7 +29,7 @@ const Header = ({ isLoggedIn, onLogout, scrollToGenerator, scrollToLogin, scroll
     
     return (
         <header className={`fixed w-full top-0 left-0 z-50 flex justify-between items-center px-4 sm:px-8 py-4 transition-all duration-300 ${isScrolled ? 'bg-primary-dark/90 backdrop-blur-lg shadow-2xl' : ''}`}>
-            <div className="text-4xl font-bold bg-gradient-to-r from-accent-teal to-accent-gold bg-clip-text text-transparent">
+            <div className="text-4xl font-bold bg-gradient-to-r from-accent-light to-accent-teal bg-clip-text text-transparent">
                 Yantraniti
             </div>
             <nav className="flex items-center space-x-6 sm:space-x-8 text-sm sm:text-base">

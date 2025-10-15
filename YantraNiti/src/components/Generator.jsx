@@ -21,7 +21,7 @@ const Generator = forwardRef((props, ref) => {
     const [isSceneInitialized, setIsSceneInitialized] = useState(false);
 
     useEffect(() => {
-        // ... (The entire Three.js initialization and cleanup logic remains unchanged)
+        
         let renderer, scene, camera, controls;
 
         const initThreeJS = () => {
@@ -49,7 +49,7 @@ const Generator = forwardRef((props, ref) => {
             directionalLight.castShadow = true;
             scene.add(directionalLight);
 
-            // --- Build Samrat Yantra Model ---
+           
             const model = new THREE.Group();
             const stoneMaterial = new THREE.MeshStandardMaterial({
                 color: 0xcccccc,
@@ -141,7 +141,7 @@ const Generator = forwardRef((props, ref) => {
 
     return (
         <section id="solution" ref={ref} className="max-w-7xl mx-auto px-4 sm:px-8 py-24">
-            <h2 className="text-4xl sm:text-5xl font-semibold text-center mb-16">The <span className="bg-gradient-to-r from-accent-teal to-accent-gold bg-clip-text text-transparent">Solution</span>: A Dynamic Generator</h2>
+            <h2 className="text-4xl sm:text-5xl font-semibold text-center mb-16">The <span className="bg-gradient-to-r from-accent-light to-accent-teal bg-clip-text text-transparent">Solution</span>: A Dynamic Generator</h2>
             <div className="grid grid-cols-1 lg:grid-cols-5 gap-12 bg-primary-light p-6 sm:p-12 rounded-3xl border border-accent-teal/20">
                 
                 {/* Controls Column */}

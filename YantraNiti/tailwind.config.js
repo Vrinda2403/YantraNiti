@@ -11,6 +11,8 @@ module.exports = {
         'primary-light': '#24243e',
         'accent-gold': '#ffd700',
         'accent-teal': '#00f2fe',
+        'accent-light': '#f0f0ff',  
+        'accent-vibrant': '#66d9ef',
         'text-light': '#f0f0f0',
         'text-dark': '#333',
       },
