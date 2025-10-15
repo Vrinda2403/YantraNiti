@@ -120,7 +120,7 @@ Ensure you have Node.js (version 16 or later) and npm installed.
 ### Installation
 1.  Clone the repository to your local machine.
     ```sh
-    git clone [https://github.com/your-github-username/YantraNiti.git](https://github.com/your-github-username/YantraNiti.git)
+    git clone https://github.com/Vrinda2403/YantraNiti.git
     ```
 2.  Navigate into the project directory.
     ```sh
