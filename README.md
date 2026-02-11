@@ -153,8 +153,6 @@ See the [open issues](https://github.com/Vrinda2403/YantraNiti/issues) for a ful
 ## 📧 Contact
 **Gmail:** vrinda.2432006@gmail.com
 
-**Team Name:** Mind Canvas
-
 **Project Link:** [https://github.com/your-github-username/YantraNiti](https://github.com/Vrinda2403/YantraNiti)
 
 **Demo Video Link:** [https://youtu.be/ISO5NUM0tHM?si=19FL3NsuhyzhIPuv](https://youtu.be/ISO5NUM0tHM?si=19FL3NsuhyzhIPuv)
