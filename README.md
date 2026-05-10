@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vrinda2403/YantraNiti/main/assets/YantraNiti_Logo.png" alt="Yantraniti Logo" width="400"/>
+ <img src="https://raw.githubusercontent.com/Vrinda2403/YantraNiti/main/YantraNiti/src/assets/YantraNiti_Logo.png" alt="Yantraniti Logo" width="400"/>
   <br/>
   <h1>
     यंत्रनीति (Yantraniti)
@@ -152,5 +152,7 @@ See the [open issues](https://github.com/Vrinda2403/YantraNiti/issues) for a ful
 
 ## 📧 Contact
 **Gmail:** vrinda.2432006@gmail.com
-**Team Name:** Mind Canvas
-**Project Link:** [https://github.com/your-github-username/YantraNiti](https://github.com/your-github-username/YantraNiti)
+
+**Project Link:** [https://github.com/your-github-username/YantraNiti](https://github.com/Vrinda2403/YantraNiti)
+
+**Demo Video Link:** [https://youtu.be/ISO5NUM0tHM?si=19FL3NsuhyzhIPuv](https://youtu.be/ISO5NUM0tHM?si=19FL3NsuhyzhIPuv)
